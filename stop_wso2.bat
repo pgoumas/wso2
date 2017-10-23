@@ -1,0 +1,1 @@
+C:\nssm\win64\nssm.exe stop wso2
