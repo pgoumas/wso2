@@ -1,5 +1,5 @@
 ﻿write-host -f yellow "install wso2"
-cls
+Clear-Host
 
 Invoke-AzureRmVmScript @params -ScriptBlock {
 
