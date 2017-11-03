@@ -19,3 +19,15 @@ deployment point
 C:\wso2510\repository\deployment\server\webapps
 
 <C:\nssm\service.log>
+
+links
+<http://localhost/askgeorgia/>
+<http://localhost/askgeorgia/data/add_data.html>
+<http://localhost/askgeorgia/data/save_data.php>
+<http://localhost/askgeorgia/data/dto.php>
+
+<http://www.askgeorgia.gr/>
+<http://www.askgeorgia.gr/data/add_data.html>
+<http://www.askgeorgia.gr/data/save_data.php>
+<http://www.askgeorgia.gr/data/dto.php>
+<http://www.askgeorgia.gr/data/log.txt>
